@@ -1,0 +1,7 @@
+* Learning Emacs
+* Add package repository
+melpa.org
+* Add package
+1. use-package
+2. which-keys
+3. org
